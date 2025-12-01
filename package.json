@@ -1,9 +1,11 @@
 {
   "name": "restful-booker-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API testing framework for the Restful-booker API, built with Playwright using Typescript.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": { 
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
