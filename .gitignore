@@ -137,3 +137,4 @@ dist
 
 # playwright
 .auth
+playwright-report/
